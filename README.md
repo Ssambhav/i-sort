@@ -48,10 +48,6 @@ The project focuses on **learning by visualization**, making complex algorithms 
 
 ---
 
-## 🌐 Live Website
-👉 https://ssambhav.github.io/i-sort/
-
----
 
 ## 📫 Contact
 **Sambhav**  
